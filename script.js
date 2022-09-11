@@ -1,4 +1,5 @@
 // Sticky Navigation Menu JS Code
+// raktimneupane.com.np
 let nav = document.querySelector("nav");
 let scrollBtn = document.querySelector(".scroll-button a");
 console.log(scrollBtn);
